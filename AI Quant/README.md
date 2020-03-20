@@ -25,3 +25,5 @@
 |[world_bank_data](https://github.com/mwouts/world_bank_data)|The World Bank Data in Python|
 |[kneed](https://github.com/arvkevi/kneed)|Knee point detection in Python|
 |[statsmodels](https://github.com/statsmodels/statsmodels)|Statsmodels: statistical modeling and econometrics in Python|
+|[freqtrade](https://github.com/freqtrade/freqtrade)|Free, open source crypto trading bot https://www.freqtrade.io|
+|[binance-trader](https://github.com/yasinkuyu/binance-trader)|💰 Cryptocurrency Trading Bot for Binance (Experimental)|
