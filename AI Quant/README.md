@@ -27,3 +27,4 @@
 |[statsmodels](https://github.com/statsmodels/statsmodels)|Statsmodels: statistical modeling and econometrics in Python|
 |[freqtrade](https://github.com/freqtrade/freqtrade)|Free, open source crypto trading bot https://www.freqtrade.io|
 |[binance-trader](https://github.com/yasinkuyu/binance-trader)|💰 Cryptocurrency Trading Bot for Binance (Experimental)|
+|[pandas-ta](https://github.com/twopirllc/pandas-ta)|Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators|
